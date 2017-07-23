@@ -1,10 +1,16 @@
 # TestcasesGenX
 
-It is library to generate Undirected Weighted Graph and Undirected unweighted Graph Testcases of length upto 100000.
+It is library to generate Graph testcases for:
+1. Undirected Weighted Graph
+2. Undirected Unweighted Graph
+3. Directed Weighted Graph
+4. Directed Unweighted Graph
+
 
 Constraints:
-1. number(vertices) && number(edges) > 10
-2. edges >= vertices-1
+1. MIN_NUMBER(vertices) && MIN_NUMBER(edges) > 10
+2. MAX_NUMBER(vertices) <= 100000
+2. Edges >= Vertices-1
 
 How to use it?
 
