@@ -7,7 +7,7 @@ class GenerateGraph{
         char fileNumGen = char(48+index);
 
         strcpy(newPath, path);
-        strcat(newPath, "/output");
+        strcat(newPath, "/input");
         strncat(newPath, &fileNumGen, 1);
         strcat(newPath, ".txt");
 
