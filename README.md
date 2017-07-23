@@ -1,6 +1,6 @@
 # TestcasesGenX
 
-It is library to generate Directed and Undirected Graph Testcases of length upto 100000.
+It is library to generate Directed Weighted and Undirected unweighted Testcases of length upto 100000.
 
 Constraints:
 1. number(vertices) && number(edges) > 10
